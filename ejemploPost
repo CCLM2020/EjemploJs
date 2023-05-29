@@ -1,6 +1,6 @@
 // Este archivo contiene un ejemplo AJAX para postear un formulario 
 
-// Mi cambio CCLM
+// Mi cambio CCLM....
 
 $.ajax({
     url: 'https://reqres.in/api/users',
